@@ -4,7 +4,6 @@ Web Portfolio to showcase projects and skills in better manner.
 
 ###### https://yunas195.github.io/
 
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
